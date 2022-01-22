@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name=description" content="London">
+  <title><u>London</u></title>                                      
+  <style type="text/css"></style>                                        
+</head>                    
+<body>
+                        
+<div class="City">
+<h2 font-size="2px">🇬🇧 Welcome to London City Of Angels 🧚‍♀️</h2>
+<p class=“subtitle">
+  <p><h2>💂 🚇 📸 🏘 ☔️</h2></p>
+</div>
+<!--   Top attraction section -->
+<p>
+  <b><h2>👇🏻🔻 Top Attractions 🔻👇🏻</h2<b></p> 
+ 
+<div class="City1">
+
+<a href="https://images.pexels.com/photos/621812/pexels-photo-621812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"target="_blank"><b>London Eye <b></a>
+<a href="https://images.pexels.com/photos/6476020/pexels-photo-6476020.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"target="_blank"><b>Big Ben  <b></a>
+<a href="https://images.pexels.com/photos/726484/pexels-photo-726484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"target="_blank"><b>Tower Bridge <b></a>
+<a href="https://images.pexels.com/photos/3921040/pexels-photo-3921040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"target="_blank"><b>Buckingham palace <b></a>
+<a href="https://static01.nyt.com/images/2017/02/01/arts/british-museum-finals-slide-IC61/british-museum-finals-slide-IC61-jumbo.jpg"target="_blank"><b>British Museum <b></a>  
+<a href="https://offloadmedia.feverup.com/secretldn.com/wp-content/uploads/2019/02/18104728/View-from-The-Shard-6.jpg"target="_blank"><b>The Shard<b></a>
+</div>
+<hr>  
+<!--   Table -->  
+<div class="table">
+<table border="5px" align="center">
+  <caption><u>🧳  Top Visited Cities In Europe 🏖</u></caption>
+ <tr>
+<th>Cities</th>
+<th>Cardinal</th>
+<th>Percentage</th>
+    </tr> 
+  
+<tr>  
+  <td>London</td><td>🥇</td><td>100%</td>  
+  </tr>
+  <tr> 
+  <td>Paris</td><td>🥈</td><td>90%</td> 
+  </tr>
+  <tr> 
+<td>Berlin</td><td>🥉</td> <td>80%</td> 
+  </tr>
+  <tr> 
+<td>Rome</td> <td>4th</td> <td>70%</td>  
+   </tr>
+  <tr> 
+    <td>Madrdid</td><td>5th</td> <td>60%</td> 
+    </tr>
+    <tr>  
+ <td>Barcelona</td> <td>6th</td> <td>50%</td>  
+       </tr>
+   <tr>
+ <td>Prague</td> <td>7th</td>  <td>40%</td> 
+     </tr>
+  <tr>
+<td>Vienna</td><td>8th</td>  <td>30%</td>    
+</tr>  
+</table>
+  </div>
+  
+ 
+<h5><span> Upload your Fav London Picture 👇🏻</h5></span> 
+
+                   
+  <input type="file" id="myFile" 
+  name="filename">
+  <input type="submit" value="Upload">
+
+  
+  <ul type="a" class="MOMO">
+  <li>Tours Available</li>
+  <li>Advices to Consider</li>
+  <li>Contact US</li>
+  </ul>
+  
+  </body>
+</html>
