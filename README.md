@@ -1,1 +1,1 @@
-# this repo is for Html projects code and files
+# this repo is for Html & CSS projects code and files
